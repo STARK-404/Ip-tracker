@@ -22,3 +22,12 @@ This tool allows you to track the details of an IP address, providing informatio
 ```bash
 python ip_tracker.py
 ```
+# Credits
++ Coded By: Stark-404
++ GitHub: STARK-404
++ Instagram: la1uuuuu
+# Disclaimer
+This tool is for educational and informational purposes only. Use it responsibly and respect privacy.
+```
+Feel free to customize it further based on your preferences or if you want to add more details about the project.
+```

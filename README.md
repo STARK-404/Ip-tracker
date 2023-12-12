@@ -18,7 +18,9 @@ This tool allows you to track the details of an IP address, providing informatio
 ``
 apt install git 
 ``
-
+```
+git clone https://github.com/STARK-404/Ip-tracker/
+```
 1. Run the script.
 2. Enter the IP address you want to track when prompted.
 
